@@ -7,3 +7,5 @@ Hello everyone,
 
 2. Infinte Scroll:
       I have used Unsplash API to display the images randomly when we scroll.
+      
+3. Dice Challenge Game
